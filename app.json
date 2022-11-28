@@ -1,7 +1,7 @@
 {
-  "name": "سورس تليثون العرب الاصلي",
-  "description": "اهلا بك في تليثون العرب الأصلي { @iqthon }",
-  "logo": "https://telegra.ph/file/aa0ee1b06ddcdcb40189a.jpg",
+  "name": "سورس افـيونـا",
+  "description": "اهلا بك في سورس افيـونـا { @iqthon }",
+  "logo": "https://telegra.ph/file/f9282f39c40c9dde14251.jpg",
   "keywords": ["plugin","modular","productivity"],
   "repository": "https://github.com/help-iq2/telethon",
   "website": "#TODO",
@@ -37,7 +37,7 @@
     },
     "TZ": {
       "description": "ضع القاره / عاصمة بلدك ( اذا كنت لاتعرفه اتركة كما هوة )",
-      "value": "Asia/Baghdad",
+      "value": "Asia/Africa",
       "required": false
     },
     "UPSTREAM_REPO": {
